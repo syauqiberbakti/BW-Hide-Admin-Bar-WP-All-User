@@ -10,8 +10,8 @@ Author: Berbakti Webhoster
 Author URI: https://www.berbakti.com/
 Donation URI: https://www.berbakti.com/donation/
 Development URI: https://www.fajarpos.com/
-License: GPL v2.0
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: GPL-3.0 license
+License URI: https://github.com/syauqiberbakti/BW-Hide-Admin-Bar-WP-All-User/blob/main/LICENSE
 
 */
 
